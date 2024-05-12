@@ -1,0 +1,32 @@
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Mylogin.exe.config
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Mylogin.exe
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Mylogin.pdb
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Mylogin.xml
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.vbprojAssemblyReference.cache
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.Form1.resources
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.Resources.resources
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.vbproj.GenerateResource.cache
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.exe
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.xml
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.pdb
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Guna.UI.dll
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Guna.UI.pdb
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\obj\Debug\Mylogin.vbproj.CopyComplete
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\S-kill\Desktop\My_App\Mylogin\Mylogin\Mylogin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\Mylogin.exe.config
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\Mylogin.exe
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\Mylogin.pdb
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\Mylogin.xml
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\bin\Debug\Guna.UI.pdb
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.vbproj.AssemblyReference.cache
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.Form1.resources
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.Resources.resources
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.vbproj.GenerateResource.cache
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.vbproj.CoreCompileInputs.cache
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.vbproj.CopyComplete
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.exe
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.xml
+C:\Users\John Eriel\source\repos\SlnMidPracticeExercise1\finalsProj\Mylogin\obj\Debug\Mylogin.pdb
