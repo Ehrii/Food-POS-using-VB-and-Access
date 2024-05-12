@@ -12,24 +12,24 @@ After which, the user may now enter the customer's order by tapping the picture 
 
 ### Authentication Page
 
-![](assets/20240512_221545_Login.JPG)
+![](images/20240512_221545_Login.JPG)
 
 ### Cashier Dashboard
 
-![](assets/20240512_221553_Dashboard.JPG)
+![](images/20240512_221553_Dashboard.JPG)
 
 ### Adding Customer
 
-![](assets/20240512_221610_Customer.JPG)
+![](images/20240512_221610_Customer.JPG)
 
 ### Dashboard w/ Food
 
-![](assets/20240512_221559_Food.JPG)
+![](images/20240512_221559_Food.JPG)
 
 ### Checkout Page
 
-![](assets/20240512_221619_Checkout.JPG)
+![](images/20240512_221619_Checkout.JPG)
 
 ### Administrator Page
 
-![](assets/20240512_221625_Admin.JPG)
+![](images/20240512_221625_Admin.JPG)
